@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fare">Fare.......................................................Rs 391.17</string>
+    <string name="capa">Capacity................................................1-4</string>
+    <string name="esti">Estimated Arrival..................................8:00pm</string>
+    <string name="perm">Per Minute Wait Time..........................Rs 3.15</string>
+    <string name="fare2">The fair will be the price presented upon booking, or, if the journey changes, the fare will be based on the rates provided. Tap fare for details</string>
+    <string name="button">DONE</string>
+</resources>
